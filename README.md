@@ -28,10 +28,9 @@
 
 
 
-   ## 💓💓 I am Progamer 🎲🎲
+   ### 💓💓 I am Progamer 🎲🎲
    
- 
-<p align="center">
+ <p align="center">
   <a href="" target="white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
@@ -40,7 +39,4 @@
    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"width="500" /> </a>
 </p>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<!-- https://github.com/RedMakquil/github-readme-activity-graph -->
-<a href="https://github.com/RedMakqui/github-readme-activity-graph"><img alt="Red Makquil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RedMakquil&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
