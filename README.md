@@ -34,3 +34,7 @@
    <p align='center'>
    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"width="500" /> </a>
 </p>
+
+🏅🏅 Profile Viewers 🏅🏅
+
+<div align="center"><img src="https://profile-counter.glitch.me/BlackKingdoms/count.svg" /><br>Profile Viewers</div>
